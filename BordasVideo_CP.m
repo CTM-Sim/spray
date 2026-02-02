@@ -1,7 +1,3 @@
-///esse codigo faz tal coisa///
-
-
-
 clear all
 close all
 clc
@@ -164,3 +160,4 @@ for p = p_values(selected_p)
 end
 
 close(v);
+
